@@ -1,0 +1,3 @@
+PRINT "=== MENU ==="
+PRINT "Type 'game' to start the game."
+#NEXT_CONTEXT game

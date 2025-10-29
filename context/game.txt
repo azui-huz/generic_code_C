@@ -1,0 +1,8 @@
+PRINT "=== GAME CONTEXT ==="
+X = 3
+Y = 4
+Z = X * Y
+PRINT "Result of X * Y:"
+PRINT Z
+PRINT "Game finished."
+#NEXT_CONTEXT

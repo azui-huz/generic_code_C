@@ -1,0 +1,7 @@
+PRINT "=== Main Program ==="
+A = 5
+B = 10
+PRINT "Sum:"
+C = A + B
+PRINT C
+#NEXT_CONTEXT menu
