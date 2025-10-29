@@ -1,0 +1,37 @@
+# === Build output ===
+/obj/
+/build/
+/bin/
+/out/
+*.o
+*.a
+*.so
+*.exe
+state_machine
+
+# === Generated documentation ===
+/docs/
+/docs/html/
+/docs/latex/
+
+# === Backup & temp files ===
+*~
+*.swp
+*.tmp
+*.log
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === IDE / Editor files ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === Context files (keep them tracked) ===
+!context/
+!context/*.txt
+
+# === Makefile cache ===
+*.d
