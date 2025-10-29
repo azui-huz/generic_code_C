@@ -186,29 +186,6 @@ ENDIF
 
 ---
 
-## Generating Documentation
-
-If you have **Doxygen** installed:
-
-```bash
-doxygen -g Doxyfile
-```
-Edit `Doxyfile`:
-```
-PROJECT_NAME = "C State Machine"
-OUTPUT_DIRECTORY = docs
-INPUT = src
-RECURSIVE = YES
-GENERATE_LATEX = NO
-```
-Generate docs:
-```bash
-doxygen Doxyfile
-```
-HTML docs appear in `docs/html/index.html`.
-
----
-
 ## Example Output
 
 ```
